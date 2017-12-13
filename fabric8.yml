@@ -1,7 +1,7 @@
 ---
 buildName: "test2"
 links:
-  Git: "https://github.com/dotw/test"
+  Git: "https://github.com/dotw/test2"
   Job: "http://192.168.64.26:32433/job/test2"
   Production: "http://10.0.0.46:80/kubernetes/pods?namespace=default-prod"
   Staging: "http://10.0.0.110:80/kubernetes/pods?namespace=default-staging"
